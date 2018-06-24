@@ -14,7 +14,9 @@ git add .
 git commit -m "first commit"
 
 # 将项目发布到 github
-git remote add origin https://github.com/JmilkFan/JmilkFan-s-Blog.git
+git remote add origin git@github.com:dkccc/blog.git
 git push -u origin master
+
+
 
 
